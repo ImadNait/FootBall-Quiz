@@ -1,0 +1,115 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("artificial-green-grass_1249-114.jpg");
+}
+h1{
+    font-size:6rem;
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+p{
+    font-size:3rem;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+}
+button{
+    background-color:var(white) ;
+    font-size:30px;
+    border-radius: 10%;
+    width: 12cm;
+    height: 4cm;
+    box-shadow: none;
+    border: none;
+    font-weight: bold;
+    border:7px solid white;
+    border-width: 5px;
+    cursor: pointer;
+    outline: none;
+    padding: 15px 32px;
+    margin-bottom: 3rem;
+    margin-top: 5rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+#5{
+    background-color:var(white) ;
+    font-size:30px;
+    border-radius: 10%;
+    width: 12cm;
+    height: 4cm;
+    box-shadow: none;
+    border: none;
+    font-weight: bold;
+    border:7px solid white;
+    border-width: 5px;
+    cursor: pointer;
+    outline: none;
+    padding: 15px 32px;
+    margin-bottom: 3rem;
+    margin-top: 5rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+#6{
+    background-color:var(white) ;
+    font-size:30px;
+    border-radius: 10%;
+    width: 12cm;
+    height: 4cm;
+    box-shadow: none;
+    border: none;
+    font-weight: bold;
+    border:7px solid white;
+    border-width: 5px;
+    cursor: pointer;
+    outline: none;
+    padding: 15px 32px;
+    margin-bottom: 3rem;
+    margin-top: 5rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+.up{
+    right: 20px;
+}
+button:hover{
+    transform: scale(1.15);
+    transition: 0.5s ease;
+    text-transform:none;
+    background-color: black;
+    color: white;
+    border-color: black;
+    transition-duration: 0.8s;
+    display: inline-block;
+
+}
+#nxt{
+    right:15rem;
+    width: 200px;
+    height: 50px;
+    align-self: normal;
+    text-align: center;
+}
+#rtr{
+    right:15rem;
+    width: 200px;
+    height: 50px;
+    align-self: normal;
+}
+.colored-box {
+    border: 5px solid white;
+    border-radius: 6%; 
+    background-size: 20rem;
+    padding: 50px;
+    width: 75rem;
+    height:auto;
+    font-weight: bold;
+    font-size: 31px;
+    color:white;
+    font-size:  5rem;
+    margin-top: 0px;
+
+}
