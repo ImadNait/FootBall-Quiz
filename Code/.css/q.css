@@ -37,7 +37,7 @@ button{
 }
 button:hover{
     background-color: white;
-    color: green;
+    color: #008000;
     transition-duration: 0.8s;
     display: inline-block;
 }
@@ -46,3 +46,32 @@ image{
     height: 4cm;
 }
 
+.git{
+position:absolute;
+margin-right: 20px;
+align-items: flex-end;
+bottom: 0cm;
+left: 0cm;
+}
+.twitt{
+left: 5rem;
+position:absolute;
+margin-right: 20px;
+align-items: flex-end;
+bottom: 0cm;
+}
+.fb{
+left: 10rem;
+position:absolute;
+margin-right: 20px;
+align-items: flex-end;
+bottom: 0cm;
+}
+.gm{
+left: 15rem;
+position:absolute;
+margin-right: 20px;
+align-items: flex-end;
+bottom: 0cm;
+
+}
