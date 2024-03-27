@@ -224,7 +224,7 @@ for(let i=0;i<=N;i++){
 
         if(index==questions[Lvl].correct){
 
-            questdisplay.textContent="Nice you Won";
+            questdisplay.textContent="Nice you Won | Advance to the next Level";
 
             b[questions[Lvl].correct].style.backgroundColor = "green";
             b[questions[Lvl].correct].style.color = "white";
