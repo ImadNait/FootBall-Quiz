@@ -1,0 +1,77 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("artificial-green-grass_1249-114.jpg");
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 8rem;
+    cursor:default;
+}
+h1::selection{
+    background-color: transparent;
+}
+button{
+    font-size: 80px;
+    border-radius: 10%;
+    width: 15cm;
+    height: 4cm;
+    box-shadow: none;
+    border: none;
+    background-color:transparent;
+    color:white;
+    font-weight: bold;
+    border:7px solid white;
+    border-width: 5px;
+    cursor: pointer;
+    outline: none;
+    padding: 15px 32px;
+
+}
+#lbl2{
+    width: 7cm;
+    height: 2cm;
+    font-size: 40px;
+}
+button:hover{
+    background-color: white;
+    color: #008000;
+    transition-duration: 0.8s;
+    display: inline-block;
+}
+image{
+    width: 4cm;
+    height: 4cm;
+}
+
+.git{
+position:absolute;
+margin-right: 20px;
+align-items: flex-end;
+bottom: 0cm;
+left: 0cm;
+}
+.twitt{
+left: 5rem;
+position:absolute;
+margin-right: 20px;
+align-items: flex-end;
+bottom: 0cm;
+}
+.fb{
+left: 10rem;
+position:absolute;
+margin-right: 20px;
+align-items: flex-end;
+bottom: 0cm;
+}
+.gm{
+left: 15rem;
+position:absolute;
+margin-right: 20px;
+align-items: flex-end;
+bottom: 0cm;
+
+}
