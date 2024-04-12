@@ -150,7 +150,7 @@ const questions = [
     {
         question:"In which year was FIFA founded?",
         answers:["1903","1901","1905","1906","1910","1904"],
-        correct:1,
+        correct:5,
         difficulty:"Hard"  },
     {
         question:"In which year was the penalty shoot-out first added to football?",
