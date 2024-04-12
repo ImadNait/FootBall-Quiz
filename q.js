@@ -92,7 +92,7 @@ const questions = [
         correct:1,
         difficulty:"Medium"   },
     {
-        question:"How many goals have Lioner Messi scored in 2012?",
+        question:"How many goals have Lionel Messi scored in 2012?",
         answers:["91","75","90","89"],
         correct:0,
         difficulty:"Medium"    },
