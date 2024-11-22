@@ -50,7 +50,7 @@ image{
 position:absolute;
 margin-right: 20px;
 align-items: flex-end;
-bottom: 0cm;
+bottom: 0;
 left: 0cm;
 }
 .twitt{
@@ -58,20 +58,20 @@ left: 5rem;
 position:absolute;
 margin-right: 20px;
 align-items: flex-end;
-bottom: 0cm;
+bottom: 0;
 }
 .fb{
 left: 10rem;
 position:absolute;
 margin-right: 20px;
 align-items: flex-end;
-bottom: 0cm;
+bottom: 0;
 }
 .gm{
 left: 15rem;
 position:absolute;
 margin-right: 20px;
 align-items: flex-end;
-bottom: 0cm;
+bottom: 0;
 
 }
